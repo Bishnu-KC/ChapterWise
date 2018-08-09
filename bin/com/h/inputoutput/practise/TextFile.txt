@@ -1,0 +1,3 @@
+This is java Training class.
+I love coding
+This is our third week.
